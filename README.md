@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Arber, a University of Alberta student in computing science.
 
 - 📫 How to reach me: arber@ualberta.ca
 
