@@ -2,6 +2,7 @@
 
 - 📫 How to reach me: arber@ualberta.ca
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Arber-Shala/github-readme-stats)
 <!--
 **Arber-Shala/Arber-Shala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
