@@ -3,7 +3,7 @@
 - 📫 How to reach me: arber@ualberta.ca
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)">
+  <a href="www.linkedin.com/in/arber-shala-83193724a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
